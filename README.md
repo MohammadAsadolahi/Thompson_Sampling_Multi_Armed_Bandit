@@ -1,6 +1,6 @@
 # Thompson Sampling Multi-Armed Bandit
 NumPy implementation of Thompson Sampling for K-actions stochastic bandit with a normal reward distribution  
-Further Optimal Regret Bounds for Thompson Sampling by Shipra Agrawal, Navin Goyal is also implemented  
+Further Optimal Regret Bounds for Thompson Sampling by Shipra Agrawal and Navin Goyal is also implemented in a specific part of the code 
 https://arxiv.org/abs/1209.3353
 ### 4 arms bandit for horizon 100 using Thompson sampling:
 ![4 arms bandit for horizon 100 using Thompson sampling](https://github.com/MohammadAsadolahi/Thompson_Sampling_Multi_Armed_Bandit/blob/main/Normal%20distribution%203%20arm%20bandit.png)
